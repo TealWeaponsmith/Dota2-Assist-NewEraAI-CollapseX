@@ -15,7 +15,8 @@
 <!-- ПЛЕЙСХОЛДЕР ДЛЯ ВАШЕГО СКРИНШОТА ИНТЕРФЕЙСА -->
 <p align="center">
 
-<img width="1216" height="621" alt="image" src="https://github.com/user-attachments/assets/55ad55de-8d12-463b-8456-68107ef5cb61" />
+<img width="3368" height="2060" alt="dota" src="https://github.com/user-attachments/assets/29859743-225b-425b-8814-ab9b32fbd06f" />
+
 
 </p>
 
