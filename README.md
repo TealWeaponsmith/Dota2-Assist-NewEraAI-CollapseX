@@ -70,7 +70,10 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 ---
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8010fb05-8e49-46cd-8c01-19ac96007c0a" />
+<img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/55ac3eec-7b98-45fa-92c6-997dbbfe5e2d" />
+<img width="1543" height="850" alt="image" src="https://github.com/user-attachments/assets/08fa6951-c239-4ee0-870b-f27b1249a7eb" />
+
+
 
 
 
