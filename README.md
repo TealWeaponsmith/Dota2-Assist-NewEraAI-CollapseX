@@ -37,6 +37,7 @@ graph LR
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 
 Entity Telemetry: Displays bounding frames around detected player models.
+
 <img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/55ac3eec-7b98-45fa-92c6-997dbbfe5e2d" />
 
 ## 2. AI Core Calibration 
@@ -78,18 +79,8 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-
-
-
-
-## Tactical Application Profiles
-
-* **Reflex Skill Building:** Sharpen your holding angles, recoil control patterns, and flick mechanics against fast-moving targets under simulated high-pressure combat scenarios.
-* **Competitive Training:** Maintain optimal crosshair placement, bullet drop compensation, and active target tracking during intense close-quarters encounters or base defense phases.
-* **Stream-Safe Performance:** Stream or capture your gameplay seamlessly — the AI overlay operates on an independent desktop rendering layer hidden from capturing software like OBS and Discord.
-
 ---
 
-`gameplay-analysis`, `fortnite-2026`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection`
+`gameplay-analysis`, `dota2-2026`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection`, `dota2`
 
 <!-- update: A -->
