@@ -32,33 +32,26 @@ graph LR
 ```
 
 
-## 1. Dynamic Model Recognition (Visual Assistance)
-Instead of interacting with game memory (Internal), the engine uses an External Pixel-Analysis Pipeline to identify distinct geometric shapes, character player models (Skins), and build structures unique to Fortnite's art style.
-<p align="center">
-
-<img width="1216" height="621" alt="image" src="https://github.com/user-attachments/assets/55ad55de-8d12-463b-8456-68107ef5cb61" />
-
-</p>
-Low-Latency Input Alignment Vector (Dynamic Tracking) Calculates the spatial discrepancy between the user's current camera vector and the detected target matrix. * **Humanized Smoothing:** Uses advanced Bezier curve interpolation to prevent robotic movements, emulating organic human input. * **FOV (Field of View) Zoning:** Allows users to define a strict pixel radius ($R_{fov}$) for tracking activation to prevent erratic shifts during rapid build-fights.
-
-## 2. Tactical Spatial Overlay (Augmented Reality HUD)
+## 1. Tactical Spatial Overlay (Augmented Reality HUD)
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 
 Entity Telemetry: Displays bounding frames around detected player models.
 Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference points to assist players in managing weapon spread patterns during bloom-heavy Fortnite gunplay.
 <p align="center">
 
-<img width="1221" height="620" alt="image" src="https://github.com/user-attachments/assets/137ba3ee-7479-40fb-ba1d-db061e6edf70" />
+<img width="1214" height="614" alt="image" src="https://github.com/user-attachments/assets/23d977b3-e71b-4feb-b24e-30baf7cda510" />
+
 
 
 
 </p>
 
-## 3. AI Core Calibration 
+## 2. AI Core Calibration 
 The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
 <p align="center">
 
-<img width="1221" height="617" alt="image" src="https://github.com/user-attachments/assets/b38d4ac6-e4cd-4289-a22a-7ff1dba8c826" />
+<img width="1222" height="619" alt="image" src="https://github.com/user-attachments/assets/84e4a680-7407-4631-99fb-c5efd3d48d29" />
+
 
 
 
