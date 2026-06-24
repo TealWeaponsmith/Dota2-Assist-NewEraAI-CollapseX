@@ -1,4 +1,4 @@
-# CollapseX
+
 # Dota2AssistNewEraAICollapseX — Advanced AI Training Platform & Vision Assistant
 
 <p align="center">
