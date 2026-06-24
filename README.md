@@ -37,11 +37,12 @@ graph LR
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 
 Entity Telemetry: Displays bounding frames around detected player models.
-
+<img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/55ac3eec-7b98-45fa-92c6-997dbbfe5e2d" />
 
 ## 2. AI Core Calibration 
 The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
 
+<img width="1543" height="850" alt="image" src="https://github.com/user-attachments/assets/08fa6951-c239-4ee0-870b-f27b1249a7eb" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-e67e22?style=flat-square">
