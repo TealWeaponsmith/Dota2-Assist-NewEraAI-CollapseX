@@ -23,7 +23,7 @@
 ## ⚙️ Workflow Diagram
 ```mermaid
 graph LR
-    A[Launch Dota-2] --> B[Run NewEraAi Engine]
+    A[Launch Dota-2] --> B[Run CollapseX Engine]
     B --> C{Load Config}
     C -->|Custom Matrix| D[Precision Vector Lock Enabled]
     C -->|Default Matrix| E[Balanced Kinematics Mode]
@@ -37,25 +37,11 @@ graph LR
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 
 Entity Telemetry: Displays bounding frames around detected player models.
-Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference points to assist players in managing weapon spread patterns during bloom-heavy Fortnite gunplay.
-<p align="center">
 
-
-
-
-
-</p>
 
 ## 2. AI Core Calibration 
 The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
-<p align="center">
 
-
-
-
-
-
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-e67e22?style=flat-square">
