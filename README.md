@@ -40,7 +40,6 @@ Entity Telemetry: Displays bounding frames around detected player models.
 Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference points to assist players in managing weapon spread patterns during bloom-heavy Fortnite gunplay.
 <p align="center">
 
-<img width="1214" height="614" alt="image" src="https://github.com/user-attachments/assets/23d977b3-e71b-4feb-b24e-30baf7cda510" />
 
 
 
@@ -51,7 +50,7 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
 <p align="center">
 
-<img width="1222" height="619" alt="image" src="https://github.com/user-attachments/assets/84e4a680-7407-4631-99fb-c5efd3d48d29" />
+
 
 
 
