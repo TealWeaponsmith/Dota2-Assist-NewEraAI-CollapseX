@@ -4,8 +4,7 @@
 <p align="center">
   <!-- Кликабельные кнопки (Оранжевый индустриальный стиль) -->
   <a href="https://github.com/LostPigeonWrath/Fortnite-Aim-NewEraAI-Assist/releases/">
-    <img src="https://img.shields.io/badge/
-TealWeaponsmith%20-%20DOWNLOAD%20NOW%20-%20d35400?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Download Now">
+    <img src="https://img.shields.io/badge/TealWeaponsmith%20-%20DOWNLOAD%20NOW%20-%20d35400?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Download Now">
   </a>
   <a href="https://github.com/LostPigeonWrath/Fortnite-Aim-NewEraAI-Assist/releases/">
     <img src="https://img.shields.io/badge/VISION%20CORE%20-%20SECURE%20MIRROR%20-%20e67e22?style=for-the-badge&logo=git&logoColor=ffffff" alt="Secure Mirror">
