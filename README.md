@@ -83,4 +83,4 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 `gameplay-analysis`, `dota2-2026`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection`, `dota2`
 
-<!-- update: A -->
+<!-- update: B -->
